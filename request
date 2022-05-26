@@ -1,0 +1,10 @@
+Library
+fastai>=2
+pillow<7
+
+Package
+packaging
+
+Jupter server extension
+voila
+ipywidgets==7.5.1
