@@ -1,6 +1,6 @@
 # Hanfu_voila
 
-[![Binder](https://mybinder.org/v2/gh/Qian-Molloy/hanfu_classifier_app.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Qian-Molloy/hanfu_classifier_app.git/HEAD)
 
 Demo Clothes classifier with fastai and Voila
 
